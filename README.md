@@ -15,5 +15,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-[![Visits Badge](https://badges.pufler.dev/visits/pujux/badge-it)]([https://badges.pufler.dev](https://badges.pufler.dev/visits/Praveen005/))
